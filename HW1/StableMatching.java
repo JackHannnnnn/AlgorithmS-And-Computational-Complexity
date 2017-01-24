@@ -84,12 +84,7 @@ public class StableMatching {
 			
 			long end = System.currentTimeMillis();
 			System.out.println("Time elapsed: " + (end - start));
-			/*
-			System.out.println("Boys: " + Arrays.toString(boyH));
-			System.out.println("Boy mean: " + boyMean);
-			System.out.println("Girls: " + Arrays.toString(girlH));
-			System.out.println("Girl mean: " + girlMean);
-			*/
+			
 		}
 	}
 	
